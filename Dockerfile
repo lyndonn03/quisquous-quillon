@@ -1,8 +1,5 @@
 FROM python:3.7-alpine
 
-# Maintainer of the project
-MAINTAINER Lyndonn Medej M. Pamintuan
-
 # All the environmental variables
 # Tells the python to run in unbuffered mode which is
 #  recommended when using docker
